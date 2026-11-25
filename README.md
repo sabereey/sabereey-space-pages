@@ -2,6 +2,6 @@
 
 A personal blog for writing and projects.
 
-[Visit the blog](https://sabereey.github.io/sabereey-space-pages/)
+[Visit the blog](https://sabereey.com/)
 
 This repository handles the GitHub Pages deployment.
